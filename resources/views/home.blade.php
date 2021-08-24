@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    php 7.3
                 </div>
             </div>
         </div>
